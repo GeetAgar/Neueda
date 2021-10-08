@@ -7,5 +7,5 @@ Java-1.8
 Tomcat Apache 1.8
 
 **Tool-**
-Eclipse IDE
-Katalon Studio
+1. Eclipse IDE
+2. Katalon Studio
